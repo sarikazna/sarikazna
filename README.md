@@ -34,9 +34,9 @@ Know about my experiences [https://www.linkedin.com/in/rudmansara/](https://www.
   <a href="https://www.shopify.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/shopify.svg" alt="shopify" width="40" height="40"/> 
   </a> 
-  <a href="https://woocommerce.com/" target="_blank" rel="noreferrer"> 
+<a href="https://woocommerce.com/" target="_blank" rel="noreferrer"> 
     <img src="https://woocommerce.com/wp-content/uploads/2020/05/cropped-favicon-192x192.png" alt="woocommerce" width="40" height="40"/> 
-  </a> 
+</a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
   </a> 
