@@ -35,8 +35,8 @@ Know about my experiences [https://www.linkedin.com/in/rudmansara/](https://www.
     <img src="https://cdn.worldvectorlogo.com/logos/shopify.svg" alt="shopify" width="40" height="40"/> 
   </a> 
 <a href="https://woocommerce.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/WooCommerce_logo.svg" alt="woocommerce" width="40" height="40"/> 
-</a> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/woocommerce/woocommerce-original.svg" alt="woocommerce" width="40" height="40"/> 
+</a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
   </a> 
