@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sara</h1>
-<h3 align="center">Digital Marketing Consultant</h3>
+<h3 align="center">Digital Marketing Consultant and Programmer</h3>
 
 Know about my experiences [https://www.linkedin.com/in/rudmansara/](https://www.linkedin.com/in/rudmansara/)
 
