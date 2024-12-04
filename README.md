@@ -1,13 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sara</h1>
-<h3 align="center">Pursuing coding in C @42 Lisboa | Part-time Account Executive</h3>
-
-- 🌍 I'm from 🇸🇮 Slovenia, but I currently live in 🇵🇱 Portugal 
-
-- 🌱 I’m currently learning **C, FlutterFlow, Firebase**
-
-- 💬 Ask me about **human languages or Eurovision**
-
-- 📫 Reach me at **sarika.zna@gmail.com**
+<h3 align="center">Digital Marketing Consultant</h3>
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/rudmansara/](https://www.linkedin.com/in/rudmansara/)
 
